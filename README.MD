@@ -15,3 +15,4 @@ feature-3 commit-3<br />
 
 ### Feature-4
 feature-4 commit-1<br />
+feature-4 commit-2<br />
